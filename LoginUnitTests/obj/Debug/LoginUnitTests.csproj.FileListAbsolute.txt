@@ -1,0 +1,17 @@
+C:\Users\jason.shek\Documents\Visual Studio 2013\Projects\LoginClassLib\LoginUnitTests\bin\Debug\xunit.abstractions.dll
+C:\Users\jason.shek\Documents\Visual Studio 2013\Projects\LoginClassLib\LoginUnitTests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\jason.shek\Documents\Visual Studio 2013\Projects\LoginClassLib\LoginUnitTests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\jason.shek\Documents\Visual Studio 2013\Projects\LoginClassLib\LoginUnitTests\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\jason.shek\Documents\Visual Studio 2013\Projects\LoginClassLib\LoginUnitTests\bin\Debug\LoginUnitTests.dll
+C:\Users\jason.shek\Documents\Visual Studio 2013\Projects\LoginClassLib\LoginUnitTests\bin\Debug\LoginUnitTests.pdb
+C:\Users\jason.shek\Documents\Visual Studio 2013\Projects\LoginClassLib\LoginUnitTests\bin\Debug\LoginClassLib.dll
+C:\Users\jason.shek\Documents\Visual Studio 2013\Projects\LoginClassLib\LoginUnitTests\bin\Debug\xunit.assert.dll
+C:\Users\jason.shek\Documents\Visual Studio 2013\Projects\LoginClassLib\LoginUnitTests\bin\Debug\xunit.core.dll
+C:\Users\jason.shek\Documents\Visual Studio 2013\Projects\LoginClassLib\LoginUnitTests\bin\Debug\LoginClassLib.pdb
+C:\Users\jason.shek\Documents\Visual Studio 2013\Projects\LoginClassLib\LoginUnitTests\bin\Debug\xunit.assert.pdb
+C:\Users\jason.shek\Documents\Visual Studio 2013\Projects\LoginClassLib\LoginUnitTests\bin\Debug\xunit.assert.xml
+C:\Users\jason.shek\Documents\Visual Studio 2013\Projects\LoginClassLib\LoginUnitTests\bin\Debug\xunit.core.pdb
+C:\Users\jason.shek\Documents\Visual Studio 2013\Projects\LoginClassLib\LoginUnitTests\bin\Debug\xunit.core.xml
+C:\Users\jason.shek\Documents\Visual Studio 2013\Projects\LoginClassLib\LoginUnitTests\obj\Debug\LoginUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\jason.shek\Documents\Visual Studio 2013\Projects\LoginClassLib\LoginUnitTests\obj\Debug\LoginUnitTests.dll
+C:\Users\jason.shek\Documents\Visual Studio 2013\Projects\LoginClassLib\LoginUnitTests\obj\Debug\LoginUnitTests.pdb

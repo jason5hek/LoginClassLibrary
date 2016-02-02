@@ -1,0 +1,5 @@
+C:\Users\jason.shek\Documents\Visual Studio 2013\Projects\LoginClassLib\LoginClassLib\bin\Debug\LoginClassLib.dll.config
+C:\Users\jason.shek\Documents\Visual Studio 2013\Projects\LoginClassLib\LoginClassLib\bin\Debug\LoginClassLib.dll
+C:\Users\jason.shek\Documents\Visual Studio 2013\Projects\LoginClassLib\LoginClassLib\bin\Debug\LoginClassLib.pdb
+C:\Users\jason.shek\Documents\Visual Studio 2013\Projects\LoginClassLib\LoginClassLib\obj\Debug\LoginClassLib.dll
+C:\Users\jason.shek\Documents\Visual Studio 2013\Projects\LoginClassLib\LoginClassLib\obj\Debug\LoginClassLib.pdb

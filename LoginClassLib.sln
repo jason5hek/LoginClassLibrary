@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginClassLib", "LoginClassLib\LoginClassLib.csproj", "{86E9F7D2-686A-4650-9A7B-8E1D426A9A3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginUnitTests", "LoginUnitTests\LoginUnitTests.csproj", "{B97D5093-D437-4CCD-80E0-5769032161D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{ADB930B6-EFE8-4087-A073-00FAF7376B3F}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86E9F7D2-686A-4650-9A7B-8E1D426A9A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E9F7D2-686A-4650-9A7B-8E1D426A9A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E9F7D2-686A-4650-9A7B-8E1D426A9A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E9F7D2-686A-4650-9A7B-8E1D426A9A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B97D5093-D437-4CCD-80E0-5769032161D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B97D5093-D437-4CCD-80E0-5769032161D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B97D5093-D437-4CCD-80E0-5769032161D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B97D5093-D437-4CCD-80E0-5769032161D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
